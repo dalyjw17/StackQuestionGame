@@ -1,0 +1,6 @@
+@StackQuestionGame.Server_HostAddress = http://localhost:5002
+
+GET {{StackQuestionGame.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

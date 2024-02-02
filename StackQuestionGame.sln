@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackQuestionGame.Server", "StackQuestionGame.Server\StackQuestionGame.Server.csproj", "{35EF2C9A-B0BE-4BB6-8739-C95320DE3998}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "stackquestiongame.client", "stackquestiongame.client\stackquestiongame.client.esproj", "{8DB5DDB5-13BA-40D6-B8EC-649439352251}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35EF2C9A-B0BE-4BB6-8739-C95320DE3998}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35EF2C9A-B0BE-4BB6-8739-C95320DE3998}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35EF2C9A-B0BE-4BB6-8739-C95320DE3998}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35EF2C9A-B0BE-4BB6-8739-C95320DE3998}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DB5DDB5-13BA-40D6-B8EC-649439352251}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DB5DDB5-13BA-40D6-B8EC-649439352251}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DB5DDB5-13BA-40D6-B8EC-649439352251}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{8DB5DDB5-13BA-40D6-B8EC-649439352251}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DB5DDB5-13BA-40D6-B8EC-649439352251}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DB5DDB5-13BA-40D6-B8EC-649439352251}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {25D10BF3-F65D-481C-A442-B7D4CE97E2FE}
+	EndGlobalSection
+EndGlobal
